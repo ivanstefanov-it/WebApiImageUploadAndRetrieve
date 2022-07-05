@@ -1,8 +1,8 @@
 # WebApiImageUploadAndRetrieve
 ASP.NET Core Web API project for upload and retrieve images 
 
-**View of Toys Page**
+**View of Index page**
 
-![](Screenshots/Index.png)
+![](Screenshots/Index.jpg)
 
 ---
